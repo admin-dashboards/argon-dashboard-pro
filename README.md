@@ -8,7 +8,6 @@ Premium Bootstrap 4 Admin Template crafted by Creative-Tim. Argon Dashboard is b
 
 - [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro?AFFILIATE=128200) - product page
 - [Argon Dashboard PRO - Docs](https://demos.creative-tim.com/argon-dashboard-pro/docs/getting-started/overview.html) - official documentation
-    - [Quick start](https://demos.creative-tim.com/argon-dashboard-pro/docs/getting-started/quick-start.html)
     - Foundation: [grid](https://demos.creative-tim.com/argon-dashboard-pro/docs/foundation/grid.html), [icons](https://demos.creative-tim.com/argon-dashboard-pro/docs/foundation/icons.html)
     - Components: [alerts](https://demos.creative-tim.com/argon-dashboard-pro/docs/components/alerts.html), [buttons](https://demos.creative-tim.com/argon-dashboard-pro/docs/components/buttons.html), [tables](https://demos.creative-tim.com/argon-dashboard-pro/docs/components/tables.html)
     - Plugins: [charts](https://demos.creative-tim.com/argon-dashboard-pro/docs/plugins/charts.html), [Quill](https://demos.creative-tim.com/argon-dashboard-pro/docs/plugins/quill.html), [jVectorMap](https://demos.creative-tim.com/argon-dashboard-pro/docs/plugins/jvectormap.html)
