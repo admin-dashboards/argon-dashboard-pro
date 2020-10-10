@@ -1,4 +1,4 @@
-# Argon Dashboard PRO
+# [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro?AFFILIATE=128200)
 
 Premium Bootstrap 4 Admin Template crafted by Creative-Tim. Argon Dashboard is built with over 200 individual components, giving you the freedom of choosing and combining. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
@@ -30,7 +30,11 @@ If you want to get inspiration or just show something directly to your clients, 
 
 <br />
 
-## Argon Dashboard Screen
+## Argon PRO Screens
+
+<br />
+
+**Argon Dashboard PRO** - UI Widgets
 
 ![Argon Dashboard PRO - Premium Bootstrap 4 Admin Template, UI widgets page.](https://raw.githubusercontent.com/admin-dashboards/argon-dashboard-pro/main/media/argon-dashboard-pro-screen-widgets.png)
 
@@ -49,7 +53,7 @@ If you want to get inspiration or just show something directly to your clients, 
 <br />
 
 ---
-Argon Dashboard PRO - Premium Bootstrap 4 Admin Template crafted by Creative-Tim
+[Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro?AFFILIATE=128200) - Premium Bootstrap 4 Admin Template crafted by Creative-Tim
 
 
 
